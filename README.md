@@ -75,7 +75,7 @@ https://portfolio-chi-liart-1c8hhz9eou.vercel.app/
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/DevanshMathur_745?theme=dark"/>
 </p>
----
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
