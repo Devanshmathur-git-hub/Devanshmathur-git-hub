@@ -70,7 +70,11 @@ https://portfolio-chi-liart-1c8hhz9eou.vercel.app/
 <img src="https://streak-stats.demolab.com?user=Devansh-Mathur-&theme=tokyonight"/>
 </p>
 
+# 🧠 LeetCode
 
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/DevanshMathur_745?theme=dark"/>
+</p>
 ---
 
 <p align="center">
