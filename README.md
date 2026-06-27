@@ -52,15 +52,6 @@ https://portfolio-chi-liart-1c8hhz9eou.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devansh-Mathur-&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Mathur-&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -73,7 +64,7 @@ https://portfolio-chi-liart-1c8hhz9eou.vercel.app/
 # 🧠 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/DevanshMathur_745?theme=dark"/>
+<img src="https://leetcard.jacoblin.cool/devanshmathur_leetcode?theme=dark"/>
 </p>
 
 
